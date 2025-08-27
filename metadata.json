@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Studio - Image Editor",
+  "description": "A minimalist, browser-based image editor built with React and Tailwind CSS. Load your images and apply filters, adjust colors, and zoom in for detailed edits. The interface supports both English and Portuguese.",
+  "requestFramePermissions": []
+}
